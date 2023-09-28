@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Task_Median_of_Two_Sorted_Arrays\bin\Debug\Task_Median_of_Two_Sorted_Arrays.exe.config
+C:\Users\mafon\source\repos\Task_Median_of_Two_Sorted_Arrays\bin\Debug\Task_Median_of_Two_Sorted_Arrays.exe
+C:\Users\mafon\source\repos\Task_Median_of_Two_Sorted_Arrays\bin\Debug\Task_Median_of_Two_Sorted_Arrays.pdb
+C:\Users\mafon\source\repos\Task_Median_of_Two_Sorted_Arrays\obj\Debug\Task_Median_of_Two_Sorted_Arrays.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Task_Median_of_Two_Sorted_Arrays\obj\Debug\Task_Median_of_Two_Sorted_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Task_Median_of_Two_Sorted_Arrays\obj\Debug\Task_Median_of_Two_Sorted_Arrays.exe
+C:\Users\mafon\source\repos\Task_Median_of_Two_Sorted_Arrays\obj\Debug\Task_Median_of_Two_Sorted_Arrays.pdb
